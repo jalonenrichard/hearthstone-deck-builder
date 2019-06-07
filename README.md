@@ -30,9 +30,14 @@ Address: https://hearthstone-card-collection.herokuapp.com/
 ## Feature Ideas
 
 [ ] Show all card images, names and texts
+
 [ ] Searchbox
+
 [ ] Deck creation
+
 - - - -
 [x] Responsive (screen resolution) app 
+
 [x] Skeleton components
+
 [x] Deploy to Heroku
