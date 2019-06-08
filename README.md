@@ -1,6 +1,16 @@
 # hs-card-browser
 
 > Browse Hearthstone cards.
+A project created for learning purposes.
+Mainly for learning Vue and Ionic.
+
+## Technologies used
+
+* Vue.js
+* Ionic
+* Webpack
+* Heroku
+
 
 ## Build Setup
 
@@ -10,12 +20,19 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Public Address
+
+The vue web app is deployed to Heroku.
+Address: https://hearthstone-card-collection.herokuapp.com/
+
+## Feature Ideas
+
+ - [ ] Show all card images, names and texts
+ - [ ] Searchbox
+ - [ ] Deck creation
+- - - -
+ - [x] Responsive (screen resolution) app 
+ - [x] Skeleton components
+ - [x] Deploy to Heroku
